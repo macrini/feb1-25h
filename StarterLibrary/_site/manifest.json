@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2025-02-02T03:27:03.166Z",
+  "files": [
+    {
+      "name": "main.5831146cb26ce8a48d92.js",
+      "size": 205464,
+      "hash": "d769a86dd686fe746356"
+    },
+    {
+      "name": "remoteEntry.js",
+      "size": 5901,
+      "hash": "d769a86dd686fe746356"
+    },
+    {
+      "name": "main.c0c25a635f47daedabe8.js",
+      "size": 6596,
+      "hash": "d769a86dd686fe746356"
+    },
+    {
+      "name": "main.6b63eb21326a4278ceba.js",
+      "size": 133174,
+      "hash": "d769a86dd686fe746356"
+    },
+    {
+      "name": "main.4c12ccc676a9fed7e29b.js",
+      "size": 55752,
+      "hash": "d769a86dd686fe746356"
+    },
+    {
+      "name": "main.cead0f7e3d357908ece9.js",
+      "size": 150636,
+      "hash": "d769a86dd686fe746356"
+    },
+    {
+      "name": "assets/List/small.webp",
+      "size": 105530,
+      "hash": "d769a86dd686fe746356"
+    },
+    {
+      "name": "assets/Section/centered_tight.webp",
+      "size": 68918,
+      "hash": "d769a86dd686fe746356"
+    },
+    {
+      "name": "assets/Section/right_medium.webp",
+      "size": 105530,
+      "hash": "d769a86dd686fe746356"
+    },
+    {
+      "name": "assets/Section/left_loose.webp",
+      "size": 32780,
+      "hash": "d769a86dd686fe746356"
+    },
+    {
+      "name": "schema.json",
+      "size": 6224,
+      "hash": "d769a86dd686fe746356"
+    },
+    {
+      "name": "main.6b63eb21326a4278ceba.js.LICENSE.txt",
+      "size": 483,
+      "hash": "d769a86dd686fe746356"
+    },
+    {
+      "name": "main.c0c25a635f47daedabe8.js.LICENSE.txt",
+      "size": 237,
+      "hash": "d769a86dd686fe746356"
+    }
+  ]
+}
